@@ -9,3 +9,8 @@ Dit is een stukje van een groter script.
     1. Deze worden gebruikt om AD account en Smartschool (co-)accounts aan te maken. 
         **Dit laatste kan je in dit script terugvinden.**
     2. Uiteindelijk worden de gegevens doorgestuurd naar het persoonlijk e-mailadres van de interimaris en wordt er een Word document opgemaakt.
+
+
+## PowerApps + Flow + SmartschoolWebservice
+Algemene uitleg hoe je via PowerApps en Flow de webservice van Smartschool kan aansturen.
+Op basis hiervan kan je een hele simpele applicatie maken waardoor bepaalde personen zonder extra beheerdersrechten toch de co-accounts van ouders kunnen beheren.
